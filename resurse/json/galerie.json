@@ -1,0 +1,40 @@
+{
+	"cale_galerie":"resurse/img/galerie",
+	"imagini": [
+		{
+			"fisier":"briose-frisca.png",
+			"descriere":"Brioșe",
+            "timp":"09:00-12:00"
+		},
+		{
+			"fisier":"clatite.png",
+			"descriere":"Clătite cu dulceață",
+            "timp":"09:00-23:59"
+		},
+		{
+			"fisier":"gogosi.png",
+			"descriere":"Gogoși glazurate",
+            "timp":"09:00-23:59"
+		},
+		{
+			"fisier":"tort-scortisoara.png",
+			"descriere":"Tort cu scorțisoară",
+            "timp":"09:00-23:59"
+		},
+		{
+			"fisier":"prajitura-ciocolata.png",
+			"descriere":"Prăjitură cu ciocolată",
+            "timp":"09:00-12:00"
+		},
+		{
+			"fisier":"tarta-afine.png",
+			"descriere":"Tartă cu afine",
+            "timp":"09:00-12:00"
+		},
+		{
+			"fisier":"tort-trandafiri.png",
+			"descriere":"Tort special",
+            "timp":"09:00-12:00"
+		}
+	]
+}

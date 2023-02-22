@@ -1,0 +1,26 @@
+{
+  "name": "proiect-tehnici-web",
+  "version": "1.0.0",
+  "description": "Magazin online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sneakers",
+    "nike",
+    "adidasi"
+  ],
+  "author": "Murica Andrei",
+  "engines": {
+    "node": "17.x"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "sharp": "^0.30.3"
+  }
+}
